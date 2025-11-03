@@ -31,8 +31,8 @@ This project demonstrates the integration of NLP, speech synthesis, and UI desig
 - Gradient buttons, glowing cards, hover effects, and rounded edges.
 - Fully responsive layout for desktop and mobile.
 - Organized two-tab structure:
-  - ** Summarize** — For PDF upload, text input, summarization, audio playback & downloads.
-  - ** History & Search** — For viewing and searching stored summaries.
+  - ** Summarize ** — For PDF upload, text input, summarization, audio playback & downloads.
+  - ** History & Search ** — For viewing and searching stored summaries.
 
 ### 5. Custom Footer
 A fixed non-overlapping footer linking to my github account.
